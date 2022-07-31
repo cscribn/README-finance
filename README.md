@@ -53,5 +53,5 @@
 * &lt;= 10% of entire portfolio
 * Upon cashout, put 15% in non-IRA retirement account.
 ### HSA
-First: save deductible
-Second: yearly contribution = HSA balance - deductible - estimated out of pocket
+* First: save deductible
+* Second: yearly contribution = HSA balance - deductible - estimated out of pocket
