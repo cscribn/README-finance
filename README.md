@@ -18,21 +18,8 @@
 * &lt;= 36% pre-tax income toward all debt.
 ### Long Term Care Insurance
 * Start buying in mid 50s.
-### Some Retirement Rules of Thumb
-#### Fidelity 2015
-* Save 15% of all salaries
-* Age 35: Have at least 1X all salaries saved
-* Age 45: 3X
-* Age 55: 5X
-* Age 67: 8X
-#### Fidelity 2020
-* Save 15% of all salaries
-* Age 35: Have at least 2X all salaries saved
-* Age 40: 3X
-* Age 45: 4X
-* Age 50: 6X
-* Age 55: 7X
-* Age 60: 8X
+### Retirement Rule of Thumb
+* Save 15%-20% of all salaries
 ### 401k and IRA
 * First: get the 401k employer match
 * Second: max out Roth IRAs
