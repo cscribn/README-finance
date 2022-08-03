@@ -19,7 +19,14 @@
 ### Long Term Care Insurance
 * Start buying in mid 50s.
 ### Retirement Rule of Thumb
-* Save 15%-20% of all salaries
+* Save 15% of all salaries
+* Age 35: Have at least 2X all salaries saved
+* Age 40: 3X
+* Age 45: 4X
+* Age 50: 6X
+* Age 55: 7X
+* Age 60: 8X
+* Age 70: 10X
 ### 401k and IRA
 * First: get the 401k employer match
 * Second: max out Roth IRAs
