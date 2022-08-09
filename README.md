@@ -46,3 +46,8 @@
 ### Employer Stock
 * &lt;= 10% of entire portfolio
 * Upon cashout, put 15% in non-IRA retirement account.
+### HSA
+* Max out each year
+* In emergency, can be withdrawn subject to income tax + 20% tax.
+* At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
+
