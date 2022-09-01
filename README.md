@@ -48,6 +48,6 @@
 * Upon cashout, put 15% in non-IRA retirement account.
 ### HSA
 * Max out each year
+* Keep family deductible in cash, invest the rest.
 * In emergency, can be withdrawn subject to income tax + 20% tax.
 * At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
-
