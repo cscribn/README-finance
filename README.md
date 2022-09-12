@@ -1,4 +1,4 @@
-# finance-README
+# README-finance
 
 ### Emergency fund
 * 2 months of primary salary in dollars
