@@ -24,7 +24,7 @@
 * &lt;= 28% of pre-tax income toward home debt.
 * &lt;= 36% pre-tax income toward all debt.
 * Keep records of home improvements
-* Upon selling, investigate [home appreciation exclusion](https://wallethacks.com/selling-home-capital-gains-exclusion/)
+* Upon selling, investigate [home appreciation exclusion](https://wallethacks.com/selling-home-capital-gains-exclusion/).
 
 ## Long Term Care Insurance
 
