@@ -18,11 +18,13 @@
 * Buy index funds or active funds with low expenses.
 * For retirement/savings goal/emergency.
 
-## Mortgage
+## Home/Mortgage
 
 * Refinance when new interest rate is &gt;= 1% lower than current rate
 * &lt;= 28% of pre-tax income toward home debt.
 * &lt;= 36% pre-tax income toward all debt.
+* Keep records of home improvements
+* Upon selling, investigate [home appreciation exclusion](https://wallethacks.com/selling-home-capital-gains-exclusion/)
 
 ## Long Term Care Insurance
 
@@ -68,7 +70,7 @@
 ## Employer Stock
 
 * &lt;= 10% of entire portfolio
-* Use Form 83(b) to pay taxes upon issue as opposed to vesting.
+* Pay taxes upon vesting not issuing. Don't risk paying taxes on shares that never vest.
 * Upon cashout, put 15% in non-IRA retirement account.
 
 ## HSA
