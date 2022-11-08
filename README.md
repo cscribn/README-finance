@@ -39,7 +39,7 @@
 * Age 50: 6X
 * Age 55: 7X
 * Age 60: 8X
-* Age 70: 10X
+* Age 67: 10X
 
 ## 401k and IRA
 
