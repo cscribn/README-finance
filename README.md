@@ -1,5 +1,9 @@
 # README-finance
 
+## Buying things
+* Get last year's model
+* Buy refurbished/renewed
+
 ## Emergency fund
 
 * 2 months of primary salary in dollars
