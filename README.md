@@ -49,7 +49,7 @@
 
 * First: get the 401k employer match
 * Second: max out Roth IRAs
-* Principle can be withdrawn penalty free, if needed for an emergency.
+  * Principle can be withdrawn penalty free, if needed for an emergency.
 * Have a mix of Roth (taxed now) and Traditional (taxed later).
 
 ## Non-deductible IRA contributions
