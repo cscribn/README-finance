@@ -14,7 +14,7 @@
 * 1 month of primary salary.
 * 2X as much gold as silver.
 * For cash diversification. Not an investment.
-* For retirement/emergency.
+* For retirement/emergency/hyperinflation.
 
 ## Equities
 
