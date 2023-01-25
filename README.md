@@ -75,11 +75,13 @@
 
 * &lt;= 10% of entire portfolio.
 * Pay taxes upon vesting not issuing. Don't risk paying taxes on shares that never vest.
-* Upon cashout, put 15% in non-IRA retirement account.
+* Upon cashout, put &gt;= 15% in non-IRA retirement account.
 
 ## HSA
 
 * Max out each year.
 * Keep family deductible in cash, invest the rest.
+* Claims can be submitted in years other than expense incurred.
+  * As long as an HSA was open in the expense year.
 * In emergency, can be withdrawn subject to income tax + 20% tax.
 * At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
