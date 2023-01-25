@@ -35,7 +35,7 @@
 * Start buying in mid 50s.
 
 ## Retirement Rule of Thumb
-* Save 15% of all salaries yearly
+* Save >= 15% of all salaries yearly
 * Savings should be >=
   * Age 35: 2X of all salaries
   * Age 40: 3X
