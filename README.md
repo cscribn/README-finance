@@ -81,7 +81,7 @@
 
 * Max out each year.
 * Keep family deductible in cash, invest the rest.
-* Claims can be submitted in years other than when expense incurred.
+* Claims can be submitted in years other than when expense incurred. Receipt required.
   * As long as an HSA was open in the expense year.
 * In emergency, can be withdrawn subject to income tax + 20% tax.
 * At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
