@@ -58,7 +58,7 @@
 
 ## Social Security
 
-* Start taking benefits no later than 70
+* Start taking benefits no later than 70.
 
 ## Emergency/Job Loss
 
