@@ -2,7 +2,7 @@
 
 ## Buying things
 * Get last year's model or older. Not this year's.
-* Buy refurbished/renewed
+* Buy refurbished/renewed.
 
 ## Emergency fund
 
@@ -24,10 +24,10 @@
 
 ## Home/Mortgage
 
-* Refinance when new interest rate is &gt;= 1% lower than current rate
+* Refinance when new interest rate is &gt;= 1% lower than current rate.
 * &lt;= 28% of pre-tax income toward home debt.
 * &lt;= 36% pre-tax income toward all debt.
-* Keep records of home improvements
+* Keep records of home improvements.
 * Upon selling, investigate [home appreciation exclusion](https://wallethacks.com/selling-home-capital-gains-exclusion/).
 
 ## Long Term Care Insurance
@@ -35,8 +35,8 @@
 * Start buying in mid 50s.
 
 ## Retirement Rule of Thumb
-* Save >= 15% of all salaries yearly
-* Savings should be >=
+* Save &gt;= 15% of all salaries yearly
+* Savings should be &gt;=
   * Age 35: 2X of all salaries
   * Age 40: 3X
   * Age 45: 4X
@@ -47,8 +47,8 @@
 
 ## 401k and IRA
 
-* First: get the 401k employer match
-* Second: max out Roth IRAs
+* First: get the 401k employer match.
+* Second: max out Roth IRAs.
   * Principle can be withdrawn penalty free, if needed for an emergency.
 * Have a mix of Roth (taxed now) and Traditional (taxed later).
 
@@ -73,13 +73,13 @@
 
 ## Employer Stock
 
-* &lt;= 10% of entire portfolio
+* &lt;= 10% of entire portfolio.
 * Pay taxes upon vesting not issuing. Don't risk paying taxes on shares that never vest.
 * Upon cashout, put 15% in non-IRA retirement account.
 
 ## HSA
 
-* Max out each year
+* Max out each year.
 * Keep family deductible in cash, invest the rest.
 * In emergency, can be withdrawn subject to income tax + 20% tax.
 * At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
