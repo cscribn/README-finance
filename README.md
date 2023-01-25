@@ -1,7 +1,7 @@
 # README-finance
 
 ## Buying things
-* Get last year's model or older. Not this year's..
+* Get last year's model or older. Not this year's.
 * Buy refurbished/renewed
 
 ## Emergency fund
