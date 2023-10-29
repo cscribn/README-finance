@@ -85,3 +85,7 @@
   * As long as an HSA was open in the expense year.
 * In emergency, can be withdrawn subject to income tax + 20% tax.
 * At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
+
+## Death
+
+* [What to Do When a Loved One Dies](https://web.archive.org/web/20231024030908/https://wallethacks.com/what-to-do-when-loved-one-dies/)
