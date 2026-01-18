@@ -50,7 +50,10 @@
 * First: get the 401k employer match.
 * Second: max out Roth IRAs.
   * Principle can be withdrawn penalty free, if needed for an emergency.
-* Have a mix of Roth (taxed now) and Traditional (taxed later).
+* Contribute to Roth (taxed now) and Traditional (taxed later), based on effective tax rate.
+  * 10% - 12%: 100% Roth
+  * 22% - 24%: 50% Roth/50% Traditional
+  * &gt;= 32%: 100% Traditional
 
 ## Non-deductible IRA contributions
 
