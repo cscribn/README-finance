@@ -56,6 +56,7 @@
   * &gt;= 32%: 100% Traditional
 * Convert from Tradition to Roth in gap between retirement and starting Social Security/RMDs (usually 60-73)
   * Since income is near zero, fill the 10% - 12% brackets with huge Roth conversions.
+  * Use outside money to pay taxes on the conversion.
 
 ## Non-deductible IRA contributions
 
