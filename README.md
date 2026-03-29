@@ -91,6 +91,12 @@
 * In emergency, can be withdrawn subject to income tax + 20% tax.
 * At 65, can be withdrawn for non-medical expenses (you still pay taxes, no penalties).
 
+## Medicaid Compliant Annuity
+
+* When one spouse needs a nursing home and the other does not.
+* Healthy spouse gets monthly check that doesn't count toward ill spouse Medicaid limit.
+* Use a lawyer to purchase.
+
 ## Death
 
 * [What to Do When a Loved One Dies](https://web.archive.org/web/20231024030908/https://wallethacks.com/what-to-do-when-loved-one-dies/)
