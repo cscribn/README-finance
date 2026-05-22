@@ -18,8 +18,9 @@
 
 ## Equities
 
-* Allocation: 100% World &cong; 60% US, 40% non-US.
+* Allocation: 100% World &cong; 63% US, 37% non-US.
 * Buy index funds or active funds with low expenses.
+* Use limit orders. Only use market orders for very large funds. No market orders after hours or when trading opens.
 * For retirement/savings goal/emergency.
 
 ## Home/Mortgage
